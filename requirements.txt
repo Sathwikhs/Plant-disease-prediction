@@ -1,6 +1,6 @@
-streamlit==1.19.0
-torch==2.2.1  # specify the version of PyTorch you're using
-torchvision==0.20.1  # specify the version of torchvision you're using (if necessary)
-Pillow==9.3.0  # for image handling
-opencv-python==4.10.0.84  # for image processing
-numpy==1.24.1  # ensure NumPy is installed for your operations
+streamlit
+torch
+torchvision
+Pillow
+opencv-python
+numpy
