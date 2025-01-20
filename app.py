@@ -91,7 +91,7 @@ plant_classes = {plant: [cls for cls in all_diseases if cls.startswith(plant)] f
 # Streamlit interface
 st.title("Plant Disease Detection")
 st.sidebar.header("Options")
-MODEL_PATH = "model\\model_weights_densenet.pth"
+MODEL_PATH = "model_weights_densenet.pth"
 NUM_CLASSES = 38
 
 # Load model
